@@ -21,14 +21,14 @@ Here's how it works:
 
 #### Core Testnet
 
-The smart contracts are already deployed on the **Core Testnet** at the following addresses:
+The smart contracts are already deployed on the **Hyper liquid Testnet** at the following addresses:
 
-| Contract Name | Address                                                                                                                            |
+<!-- | Contract Name | Address                                                                                                                            |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | **DappWorks** | [`0xf2011cfe8e379a4a890a7f1a5cdcc61629a2fa6b`](https://scan.test2.btcs.network/address/0xf2011cfe8e379a4a890a7f1a5cdcc61629a2fa6b) |
 | **USDT**      | [`0x7BBfC9Ea272595D794990A8C2ea615d95ECe3673`](https://scan.test2.btcs.network/address/0x7BBfC9Ea272595D794990A8C2ea615d95ECe3673) |
 
-🔗 _You can visit the [Core Testnet Explorer](https://scan.test2.btcs.network) to check the transactions._
+🔗 _You can visit the [Core Testnet Explorer](https://scan.test2.btcs.network) to check the transactions._ -->
 
 ---
 
