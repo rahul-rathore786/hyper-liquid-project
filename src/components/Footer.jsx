@@ -128,7 +128,7 @@ const Footer = () => {
             <ul className="space-y-2">
               <li>
                 <a
-                  href="https://docs.google.com/document/d/1aXRJIy6MFLaANO5RYmaQxRZkIXbfO6qVc6V1Hx3gLgc/edit?usp=sharing"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors"
@@ -148,12 +148,12 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="https://hype-faucet.metis.io/"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors"
                 >
-                  Hyperion Faucet
+                  Faucet Link
                 </a>
               </li>
               <li>
@@ -187,7 +187,7 @@ const Footer = () => {
                   Contact Us
                 </Link>
               </li>
-              <li>
+              {/* <li>
                 <a
                   href="https://forum.ceg.vote/t/safe-work-pay/5925"
                   className="text-gray-400 hover:text-white transition-colors"
@@ -204,7 +204,7 @@ const Footer = () => {
                 >
                   Invite Link
                 </a>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>
@@ -238,7 +238,7 @@ const Footer = () => {
 
         <div className="mt-8 text-center text-sm text-gray-400">
           <p className="flex items-center justify-center">
-            Built with <FaHeart className="text-red-500 mx-1" /> on the Hyperion
+            Built with <FaHeart className="text-red-500 mx-1" /> on the
             blockchain
           </p>
         </div>

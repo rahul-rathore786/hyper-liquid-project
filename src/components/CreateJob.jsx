@@ -20,7 +20,7 @@ const CreateJob = () => {
   const [minBudget, setMinBudget] = useState("50");
   const [maxBudget, setMaxBudget] = useState("100");
   const [description, setDescription] = useState(
-    "Build the test project for hyper-hack stress testing"
+    "Build the test project for stress testing"
   );
   const [skill, setSkill] = useState("");
   const [skills, setSkills] = useState([
