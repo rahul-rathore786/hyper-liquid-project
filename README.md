@@ -19,16 +19,16 @@ Here's how it works:
 
 ## 📜 Deployment Notes
 
-#### Core Testnet
+#### Hyper-liquid Testnet
 
 The smart contracts are already deployed on the **Hyper liquid Testnet** at the following addresses:
 
-<!-- | Contract Name | Address                                                                                                                            |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **DappWorks** | [`0xf2011cfe8e379a4a890a7f1a5cdcc61629a2fa6b`](https://scan.test2.btcs.network/address/0xf2011cfe8e379a4a890a7f1a5cdcc61629a2fa6b) |
-| **USDT**      | [`0x7BBfC9Ea272595D794990A8C2ea615d95ECe3673`](https://scan.test2.btcs.network/address/0x7BBfC9Ea272595D794990A8C2ea615d95ECe3673) |
+| Contract Name | Address                                      |
+| ------------- | -------------------------------------------- |
+| **DappWorks** | `0x9C61915021e997bF60007f2474511F889fB0eFF3` |
+| **USDT**      | `0x10a8bE5486dEFe137e957F6a78CcF81880423F31` |
 
-🔗 _You can visit the [Core Testnet Explorer](https://scan.test2.btcs.network) to check the transactions._ -->
+🔗 _You can visit the [Hyper-liquid Testnet Explorer](https://app.hyperliquid-testnet.xyz/explorer) to check the transactions._
 
 ---
 
@@ -253,7 +253,7 @@ change file name .env.example to .env and add the environment variables in the .
 - **Backend (Smart Contracts)**: Solidity, Hardhat, OpenZeppelin Contracts, Node.js, Express.js, @google/generative-ai
 - **Chat Functionality**: CometChat
 - **Package Manager**: pnpm
-- **Blockchain**: Core Testnet
+- **Blockchain**: Hyper-liquid Testnet
 - **AI**: Custom AI model for code evaluation and dispute resolution (integrated with Gemini API)
 
 ## Additional Notes
