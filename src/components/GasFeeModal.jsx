@@ -69,7 +69,7 @@ const GasFeeModal = ({ visible, onClose, walletAddress }) => {
 
           {/* Action button */}
           <a
-            href="https://scan.test2.btcs.network/faucet"
+            href="https://hyperliquid-faucet.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full py-3 px-6 bg-gradient-to-r from-primary-500 to-secondary-500 hover:from-primary-600 hover:to-secondary-600 text-white font-medium rounded-lg transition-all duration-200 flex items-center justify-center mb-4"

@@ -85,6 +85,19 @@ export const NETWORKS = {
     rpcUrls: ["https://rpc.test2.btcs.network"],
     blockExplorerUrls: ["https://scan.test2.btcs.network"],
   },
+  // add hyperliquid testnet
+  HYPERLIQUID_TESTNET: {
+    chainId: "0x3E6",
+    chainIdDecimal: 998,
+    chainName: "Hyperliquid Testnet",
+    nativeCurrency: {
+      name: "Hyperliquid",
+      symbol: "HYPE",
+      decimals: 18,
+    },
+    rpcUrls: ["https://rpc.hyperliquid-testnet.xyz/evm"],
+    blockExplorerUrls: ["https://app.hyperliquid-testnet.xyz/explorer"],
+  },
 };
 
 /**

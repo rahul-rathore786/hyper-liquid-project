@@ -14,7 +14,7 @@ const UsdtAddress = addresses.USDT;
 const UsdtABI = UsdtAbi.abi;
 
 // Default network for the application
-const DEFAULT_NETWORK_KEY = "CORE_TESTNET2";
+const DEFAULT_NETWORK_KEY = "HYPERLIQUID_TESTNET";
 const DEFAULT_NETWORK = NETWORKS[DEFAULT_NETWORK_KEY];
 
 let tx;
