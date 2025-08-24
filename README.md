@@ -12,8 +12,9 @@ Here's how it works:
 
 ## Submission Information
 
-- Live Link https://safe-work-pay-v3-2.vercel.app/
-- Presentation video: https://youtu.be/5vzjYtTKsVs
+- Live website: [link](https://hyper-liquid-project.vercel.app/)
+- Presentation video: [link](https://www.youtube.com/watch?v=QwiWn4BRBUA)
+- Hackathon submission: [link](https://taikai.network/hl-hackathon-organizers/hackathons/hl-hackathon/projects/cmeh0gbnd014qh6qin6lkfa89/idea)
 
 ---
 
